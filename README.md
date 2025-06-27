@@ -40,6 +40,13 @@ This file contains the core of the application, with the following components:
 
 ---
 
+### Requirements
+- Flutter SDK (3.10+ recommended)
+- Dart
+- Android/iOS emulator or real device for testing
+
+---
+
 ## Sample Status Data
 
 Hardcoded mock repair data is used for demonstration:
@@ -57,7 +64,3 @@ final Map<String, String> _phoneRepairs = {
   '9155551212': 'Ready for Pickup',
 };
 
-### Requirements
-- Flutter SDK (3.10+ recommended)
-- Dart
-- Android/iOS emulator or real device for testing
